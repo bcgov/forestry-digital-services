@@ -1,0 +1,26 @@
+{% assign current = page.url | downcase | split: '/' %}
+{% assign commonServices = site.applications | sort: 'order' %}
+
+<nav class="navigation-main" id="navbar">
+  <div class="container">
+    <ul>
+      <li class="{% if page.url == '/' %}active{% endif %}"><a href='{{ site.baseurl }}/'>Home</a></li>
+      <li class="{% if page.url == '/vision.html' %}active{% endif %}"><a href='{{ site.baseurl }}/vision.html'>Vision</a></li>
+      
+      <li class="nav-item dropdown {% if page.url contains '/services/' %}active{% endif %}">
+        <a class="nav-link dropdown-toggle" href="#" id="compDropdown" role="button" data-toggle="dropdown"
+          aria-haspopup="true" aria-expanded="false">
+          Products
+        </a>
+        <div class="dropdown-menu" aria-labelledby="compDropdown">
+          {% for card in commonServices %}
+            <a class="dropdown-item" href="{{ site.baseurl }}{{ card.url }}.html">{{ card.title }}</a>
+          {% endfor %}
+        </div>
+      </li>
+      
+      <li><a href='https://github.com/bcgov/nr-forest-client-api/wiki' target="_blank">Wiki</a></li>
+      <li class="{% if page.url == '/team.html' %}active{% endif %}"><a href='{{ site.baseurl }}/team.html'>Engage with Us</a></li>
+    </ul>
+  </div>
+</nav>

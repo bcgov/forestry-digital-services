@@ -1,0 +1,72 @@
+@import "variables";
+
+/* The header/description section of the pages */
+.page-header {
+  margin-top: 1em;
+  h2 {
+    margin-bottom: 1em;
+    font-size: 2rem;
+    line-height: 3;
+    font-weight: bold;
+    color: $blue-text;
+    background-image: url("../../assets/images/pexels-yaroslav-shuraev2.png");
+  }
+}
+
+/* page header with inline mascot image */
+h2 .mascot{
+  height: 5rem;
+  @media (max-width: 768px) {
+    height: 3rem;
+  }
+}
+
+
+
+/* content styles */
+.unstructured-content, .onboarding-content, .team-content {
+  h4, h5, h6 {
+    font-weight: bold;
+  }
+  h4 {
+    font-size: 1.25rem;
+    color: $blue-text;
+    margin-bottom: 1.25rem;
+  }
+  h5 {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+  }
+  ul {
+    margin-bottom: 1.5rem;
+  }
+  a {
+    color: $blue-text-light;
+  }
+}
+
+/* Style specific to the 'unstructured' service pages (eg: chefs) */
+.unstructured-content {
+  p {
+    margin-bottom: 1rem;
+  }
+  li {
+    margin-bottom: .5rem;
+  }
+}
+
+
+/* Style specific to the team */
+.team-content {
+
+  strong {
+    color: $blue-text;
+  }
+
+  ul {
+    padding: 1em;
+
+  }
+
+  
+}

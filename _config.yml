@@ -23,7 +23,7 @@ bannertitle: Forestry Suite of Applications
 email: fsamodernizationprogram@gov.bc.ca
 description: >- # this means to ignore newlines until "baseurl:"
   Website for user and developer documentation of the Forestry Suite of Applications program and services built by FSA Teams.
-baseurl: "/forestry-applications" # the subpath of your site, e.g. /blog
+baseurl: "/forestry-digital-services" # the subpath of your site, e.g. /blog
 url: "https://bcgov.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 collections_dir: collections

@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Forestry Suite of Applications
-bannertitle: Forestry Suite of Applications
+title: Forestry Digital Services
+bannertitle: Forestry Digital Services
 email: fsamodernizationprogram@gov.bc.ca
 description: >- # this means to ignore newlines until "baseurl:"
-  Website for user and developer documentation of the Forestry Suite of Applications program and services built by FSA Teams.
+  Website for user and developer documentation of the Forestry Digital Services program and services built by FSA Teams.
 baseurl: "/forestry-digital-services" # the subpath of your site, e.g. /blog
 url: "https://bcgov.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -32,9 +32,9 @@ collections:
   applications:
     output: true
     permalink: /:collection/:name
-  teams:
+  pages:
     output: true
-    permalink: /:collection/:name
+    permalink: /:name
   
 
 # Exclude from processing.

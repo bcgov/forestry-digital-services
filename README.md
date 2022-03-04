@@ -27,14 +27,14 @@ GitHub Pages understands Jekyll and will build and deploy sites automatically, d
 test out your markdown with this dandy tool <red> - [https://markdown-it.github.io/](https://markdown-it.github.io/)** </span>
 
 
-1. Fork the [Common Service Showcase repository](https://github.com/bcgov/forestry-applications)
+1. Fork the [Common Service Showcase repository](https://github.com/bcgov/forestry-digital-services)
 1. Checkout gh-pages branch
 1. Create branch from gh-pages
 1. Add new collections (services), or other content
 1. Build with Jekyll
 1. Review your changes
 1. Commit and push your changes to your fork.
-1. Make a [Pull Request](https://github.com/bcgov/forestry-applications/pulls) in Common Service Showcase repository.
+1. Make a [Pull Request](https://github.com/bcgov/forestry-digital-services/pulls) in Common Service Showcase repository.
 1. Ask for a review and approval of changes.
 
 ## Build with Jekyll
@@ -57,4 +57,4 @@ bundle exec jekyll build
 bundle exec jekyll serve
 ```
 
-1. Go to site: <http://localhost:4000/forestry-applications/>
+1. Go to site: <http://localhost:4000/forestry-digital-services/>

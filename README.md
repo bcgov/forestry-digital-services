@@ -23,6 +23,10 @@ See the `collections` key in the config.yaml
 
 GitHub Pages understands Jekyll and will build and deploy sites automatically, do **not** check in the *_site* directory.
 
+you can update via the github code repository GUI (in addition to the below steps)
+test out your markdown with this dandy tool - [https://markdown-it.github.io/](https://markdown-it.github.io/)
+
+
 1. Fork the [Common Service Showcase repository](https://github.com/bcgov/forestry-applications)
 1. Checkout gh-pages branch
 1. Create branch from gh-pages

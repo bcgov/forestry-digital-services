@@ -15,7 +15,6 @@ For help in using this website for commenting please watch this [how-to video](h
 Technology Stack: Angular, Node.js, PostgresSQL with PostGIS running in OCP v4
 This is a mono-repo that includes the API backend and the two Angular front-ends.
 
-See ministry [Confluence site](https://apps.nrs.gov.bc.ca/int/confluence/pages/viewpage.action?pageId=83560736)
 
 For More Information:
 

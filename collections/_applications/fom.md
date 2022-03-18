@@ -13,7 +13,7 @@ Use this site to find, learn about, and comment on FOMs throughout British Colum
 For help in using this website for commenting please watch this [how-to video](https://www.youtube.com/watch?v=FmwlnJsd5P8).
 
 Technology Stack: Angular, Node.js, PostgresSQL with PostGIS running in OCP v4
-This is a monorepo that includes the API backend and the two Angular front-ends.
+This is a mono-repo that includes the API backend and the two Angular front-ends.
 
 See ministry [Confluence site](https://apps.nrs.gov.bc.ca/int/confluence/pages/viewpage.action?pageId=83560736)
 

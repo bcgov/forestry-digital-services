@@ -19,5 +19,5 @@ This is a mono-repo that includes the API backend and the two Angular front-ends
 For More Information:
 
 + hosted: [https://fom.nrs.gov.bc.ca/public/](https://fom.nrs.gov.bc.ca/public/)
-+ github: [https://github.com/bcgov/nr-fom-api](https://github.com/bcgov/nr-fom-api)
-+ docs: [https://github.com/bcgov/nr-fom-api/blob/master/README.md](https://github.com/bcgov/nr-fom-api/blob/master/README.md)
++ github: [https://github.com/bcgov/nr-fom](https://github.com/bcgov/nr-fom)
++ docs:   [https://github.com/bcgov/nr-fom/blob/main/README.md](https://github.com/bcgov/nr-fom/blob/main/README.md)

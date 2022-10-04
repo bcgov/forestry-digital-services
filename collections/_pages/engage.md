@@ -12,7 +12,7 @@ Your feedback is incredibly valuable and plays a part in how we shape our online
 ![Email Us](assets/images/email.svg) Email: [FSAModernizationProgram@gov.bc.ca](mailto:fsamodernizationprogram@gov.bc.ca)
 
 ![Email Us](assets/images/email.svg) Email: [Chantelle.Abanilla@gov.bc.ca](mailto:chantelle.abanilla@gov.bc.ca)  
-A/Program Director of the Forestry Digital Services
+Program Director of the Forestry Digital Services
 
 ![Email Us](assets/images/email.svg) Email: [Michelle.Douville@gov.bc.ca](mailto:michelle.douville@gov.bc.ca)  
-A/Technical Director of the Forestry Digital Services
+Technical Director of the Forestry Digital Services

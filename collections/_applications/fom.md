@@ -2,7 +2,7 @@
 layout: home
 name: FOM
 title: Forest Operations Map (FOM)
-order: 2
+order: 3
 description: 
 ---
 ## Overview

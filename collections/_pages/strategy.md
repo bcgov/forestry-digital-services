@@ -17,6 +17,7 @@ description:
 
 ## What does our team do?
 
+
 Our team is modernizing the FSA by:
 -	Taking a [human centred design approach](https://en.wikipedia.org/wiki/Human-centered_design) to our work, led by [service design](https://en.wikipedia.org/wiki/Service_design). This includes:
     -	Observing the FSA in their work and technical environments
@@ -27,8 +28,11 @@ Our team is modernizing the FSA by:
     -	Mapping affinities and journey maps
     -	Making recommendations about what to develop
 -	Using [Agile](https://en.wikipedia.org/wiki/Agile_software_development) software development methodologies
+
 -	Applying UX/UI best practices to the development and testing of user interfaces
+
 -	Testing and iterating solutions before launching them
+
 -	Committing to a cycle of continuous improvement to ensure the new applications meet users’ needs over the long term.
 
 ## When do you engage with us?

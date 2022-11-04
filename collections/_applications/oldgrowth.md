@@ -10,4 +10,4 @@ The Old Growth Technical Advisory Panel identified old growth areas that are at 
 
 ## For More Information
 + github: [https://github.com/bcgov/nr-old-growth](https://github.com/bcgov/nr-old-growth)
-+ www: [https://www2.gov.bc.ca/gov/content/industry/forestry/managing-our-forest-resources/old-growth-forests](https://www2.gov.bc.ca/gov/content/industry/forestry/managing-our-forest-resources/old-growth-forests)
++ website: [https://www2.gov.bc.ca/gov/content/industry/forestry/managing-our-forest-resources/old-growth-forests](https://www2.gov.bc.ca/gov/content/industry/forestry/managing-our-forest-resources/old-growth-forests)

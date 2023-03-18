@@ -9,7 +9,6 @@ description:
 The Natural Resource Sector (NRS) has relied extensively on WebADE for digital The Fingerprint Team is improving secure access to the FSA using Forest Access Management (FAM). 
 
 FAM: 
-
 - Defines and manages authorization rules including for groups, roles and delegations 
 - Provides IDIR and business BCeID authentication and authorization support 
 - Solves the problem of ADAM's incompatibility with modern applications, and 

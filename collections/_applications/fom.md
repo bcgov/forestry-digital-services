@@ -5,7 +5,7 @@ title: Forest Operations Map (FOM)
 order: 4
 description: 
 ---
-## Forest Operations Map (FOM)
+
 The Fingerprint Team created the Forest Operations Map (FOM). FOM enables Forest Stewardship Plan (FSP) holders to show planned cutblocks and road developments. The goal is to improve public engagement on forest practices by opening them to public review and comment. 
 
 FOM is now operational, and the team continues to support and enhance it. 

@@ -6,27 +6,22 @@ description:
 ---
 
 ## The Forestry Suite of Applications 
-<br>
+
 The Forestry Suite of Applications (FSA) is 40+ software applications that are integral to forestry in B.C. 
-<br>
+
 A review found the applications to be out-of-date and difficult to use. In 2021, the FSA Modernization Program was announced. It’s a five-year capital investment in new digital products and services to support forestry. 
-<br>
+
 The FSA Program has four teams:
-<br> 
+
 
 1. **Alliance** created the [old forest deferral verification form](https://www2.gov.bc.ca/gov/content?id=FA95ADB67F584002993F7DA235FF7179) and is modernizing the Forest Client Management System. 
-<br>
 2. **Encora** is modernizing the Seed Planning and Registry and the Cone and Seed Program 
-<br>
 3. **Fingerprint** is modernizing Forest Access Management and the Forest Operations Map, and 
-<br>
 4. **Silva** is modernizing the Reporting Silviculture Updates and Land Status Tracking System 
-<br>
+
 Our teams are aiming to design services that meet the needs of diverse users, from members of the public to backend technical experts. 
-<br>
+
 We’re headquartered in Victoria but we have members working across the province. We collaborate online with application users throughout B.C. Team members also go into the field to learn how users interact with FS applications in their places of work. 
-<br>
-<br>
 
 ## How we work
 

@@ -5,10 +5,22 @@ title: Overview
 description:        
 ---
 ![FSA](assets/images/slide1.png)
-## What is the Forestry Suite of Applications Program?
+## The Forestry Suite of Applications Program 
+<br>
 
-The Forestry Suite of Applications Program (FSA) is a five-year capital project that will modernize the ageing IM/IT forestry suite of over 40 applications.<br><br>As government moves to establishing and adopting new digital strategies for each ministry, FSA is working in partnership with the Natural Resource Information & Digital Services Division (NRIDS) to ensure the delivery of digital services that align with the strategic mandates of the Ministry of Forests based on the needs of stakeholders, proponents, Indigenous Peoples, Natural Resource Ministries (NRM) staff and other users.
+The Forestry Suite of Applications Program (FSA) is a five-year capital project program to modernize over 40 applications with new digital products and services. <br><br>
 
-## Our Vision
+A driver of this change is [Modernizing Forest Policy in British Columbia](https://www2.gov.bc.ca/gov/content/industry/forestry/competitive-forest-industry) which outlines government’s vision for forestry. B.C.’s forestry policy framework is two decades old and is inadequate for today’s challenges. So now is the time to modernize forestry in ways that also support [StrongerBC](https://strongerbc.gov.bc.ca/), B.C.’s economic recovery plan. 
 
-To build a sustainable and modern digital service that supports the BC Government in forestry-based initiatives, and to transform the Forestry Suite of Applications (FSA) into digital products and services that will better serve and align with the strategic mandates of the Ministry. 
+For more information about modernization, see our [FSA introductory video](https://www.youtube.com/watch?v=l7OSu6n_9EE). 
+<br>
+<br>
+## The program’s mission 
+<br>
+Our mission is to: 
+
+1.) Develop sustainable and modern digital services that support government's forest-based initiatives. 
+
+2.) Align the ministry's digital products and services with its priorities. 
+
+3.) Meet the needs of Indigenous people, industry partners, NR ministries, and the public. 

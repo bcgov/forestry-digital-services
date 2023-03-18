@@ -6,7 +6,7 @@ order: 2
 description: 
 ---
 
-The Natural Resource Sector (NRS) has relied extensively on WebADE for digital The Fingerprint Team is improving secure access to the FSA using Forest Access Management (FAM). 
+The Natural Resource Sector (NRS) has relied extensively on WebADE for digital. The Fingerprint Team is improving secure access to the FSA using Forest Access Management (FAM). 
 
 FAM: 
 - Defines and manages authorization rules including for groups, roles and delegations 

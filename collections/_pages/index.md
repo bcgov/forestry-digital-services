@@ -16,7 +16,6 @@ For more information about modernization, see our [FSA introductory video](https
 ## The program’s mission 
 
 Our mission is to: 
-
 1. Develop sustainable and modern digital services that support government's forest-based initiatives. 
 2. Align the ministry's digital products and services with its priorities. 
 3. Meet the needs of Indigenous people, industry partners, NR ministries, and the public. 

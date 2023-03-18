@@ -12,10 +12,10 @@ The Forestry Suite of Applications (FSA) is 40+ software applications that are i
 A review found the applications to be out-of-date and difficult to use. In 2021, the FSA Modernization Program was announced. It’s a five-year capital investment in new digital products and services to support forestry. 
 
 The FSA Program has four teams:
-1. **Alliance** created the [old forest deferral verification form](https://www2.gov.bc.ca/gov/content?id=FA95ADB67F584002993F7DA235FF7179) and is modernizing the Forest Client Management System. 
-2. **Encora** is modernizing the Seed Planning and Registry and the Cone and Seed Program 
-3. **Fingerprint** is modernizing Forest Access Management and the Forest Operations Map, and 
-4. **Silva** is modernizing the Reporting Silviculture Updates and Land Status Tracking System 
+1. **Alliance** created the [old forest deferral verification form](https://www2.gov.bc.ca/gov/content?id=FA95ADB67F584002993F7DA235FF7179) and is modernizing the [Forest Client Management System](./applications/client.html). 
+2. **Encora** is modernizing the [Seed Planning and Registry and the Cone and Seed Program](./applications/spar.html) 
+3. **Fingerprint** is modernizing [Forest Access Management](./applications/fam.html) and the [Forest Operations Map](./applications/fom.html), and 
+4. **Silva** is modernizing the [Reporting Silviculture Updates and Land Status Tracking System](./applications/results.html)
 
 Our teams are aiming to design services that meet the needs of diverse users, from members of the public to backend technical experts. 
 

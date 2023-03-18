@@ -5,7 +5,7 @@ title: Seed Planning and Registry (SPAR) and Cone and Seed Program (CONSEP)
 order: 7
 description: 
 ---
-## Seed Planning and Registry (SPAR) and Cone and Seed Program (CONSEP) 
+
 Team Encora is modernizing the Seed Planning and Registry (SPAR) and the Cone and Seed Program (CONSEP). 
 
 SPAR is the Ministry of Forests’ online tree seed registry. It's used to: 

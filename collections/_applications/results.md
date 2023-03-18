@@ -13,7 +13,6 @@ In B.C., rights to harvest timber on Crown land are granted through timber tenur
 RESULTS is the application that helps meet these obligations. It's a database of information on silviculture accomplishments and land base investments. This includes harvesting and natural disturbances, stocking standards, planting activities, and tree species. Its data is also used to support land use decisions and key initiatives. 
 
 RESULTS is being modernized because it: 
-
 - Is incompatible with modern browsers 
 - Has high maintenance costs 
 - Relies on time consuming manual workarounds 

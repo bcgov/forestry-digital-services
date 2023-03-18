@@ -2,20 +2,22 @@
 layout: home
 name: FOM
 title: Forest Operations Map (FOM)
-order: 3
+order: 4
 description: 
 ---
-## Overview
-The Province is responsible for managing Cutting Permits (CP) and Road Permits (RP) in British Columbia. The Forest Operations Map (FOM) is a prerequisite to obtaining a CP or RP, and allows the public to comment on planned forestry operations. In an average year the Province processes between 5,000 and 7,000 CP/RP applications. Planned cutblocks and roads can be viewed and commented on using the Government’s FOM website, or by visiting the FOM holder’s place of business during the commenting period.
+## Forest Operations Map (FOM)
+The Fingerprint Team created the Forest Operations Map (FOM). FOM enables Forest Stewardship Plan (FSP) holders to show planned cutblocks and road developments. The goal is to improve public engagement on forest practices by opening them to public review and comment. 
 
-Use this site to find, learn about, and comment on FOMs throughout British Columbia.
+FOM is now operational, and the team continues to support and enhance it. 
+Visit [the FOM website](https://fom.nrs.gov.bc.ca/public/projects#splash) to find, learn about, and comment on FOMs. 
 
-For help in using this website for commenting please watch this [how-to video](https://www.youtube.com/watch?v=FmwlnJsd5P8).
+Watch [How to use BC’s new Forest Operations Map (FOM) webtool for public commenting](https://www.youtube.com/watch?v=FmwlnJsd5P8) to learn how to use the map for commenting. 
 
-Technology Stack: Angular, Node.js, PostgresSQL with PostGIS running in OCP v4
+
+
+## More information 
+- Technology Stack: Angular, Node.js, PostgresSQL with PostGIS running in OCP v4
 This is a mono-repo that includes the API backend and the two Angular front-ends.
-
-## For More Information
-+ hosted: [https://fom.nrs.gov.bc.ca/public/](https://fom.nrs.gov.bc.ca/public/)
-+ github: [https://github.com/bcgov/nr-fom](https://github.com/bcgov/nr-fom)
-+ docs:   [https://github.com/bcgov/nr-fom/blob/main/README.md](https://github.com/bcgov/nr-fom/blob/main/README.md)
+- hosted: [https://fom.nrs.gov.bc.ca/public/](https://fom.nrs.gov.bc.ca/public/)
+- github: [https://github.com/bcgov/nr-fom](https://github.com/bcgov/nr-fom)
+- docs:   [https://github.com/bcgov/nr-fom/blob/main/README.md](https://github.com/bcgov/nr-fom/blob/main/README.md)

@@ -5,32 +5,45 @@ title: Strategy
 description:        
 ---
 
-## Who is the Forestry Suite of Applications Program team?
+## The Forestry Suite of Applications 
+<br>
+The Forestry Suite of Applications (FSA) is 40+ software applications that are integral to forestry in B.C. 
+<br>
+A review found the applications to be out-of-date and difficult to use. In 2021, the FSA Modernization Program was announced. It’s a five-year capital investment in new digital products and services to support forestry. 
+<br>
+The FSA Program has four teams:
+<br> 
 
--	The Forestry Suite of Applications (FSA) is 40+ software programs integral to forestry in B.C.
+1. **Alliance** created the [old forest deferral verification form](https://www2.gov.bc.ca/gov/content?id=FA95ADB67F584002993F7DA235FF7179) and is modernizing the Forest Client Management System. 
+<br>
+2. **Encora** is modernizing the Seed Planning and Registry and the Cone and Seed Program 
+<br>
+3. **Fingerprint** is modernizing Forest Access Management and the Forest Operations Map, and 
+<br>
+4. **Silva** is modernizing the Reporting Silviculture Updates and Land Status Tracking System 
+<br>
+Our teams are aiming to design services that meet the needs of diverse users, from members of the public to backend technical experts. 
+<br>
+We’re headquartered in Victoria but we have members working across the province. We collaborate online with application users throughout B.C. Team members also go into the field to learn how users interact with FS applications in their places of work. 
+<br>
+<br>
 
--	A review found the applications to be out-of-date and difficult to use. In 2021, the FSA Modernization Program was announced. It's a five-year capital investment in new digital products and services to support forestry.
+## How we work
 
--	Our team leads the FSA modernization program. Our aim is to design services that meet the needs of diverse users, from members of the public to backend technical experts.
+Our team is modernizing the FSA by:
+    Our team is modernizing the FSA by taking a [human centred design approach](https://en.wikipedia.org/wiki/Human-centered_design), led by [service design](https://en.wikipedia.org/wiki/Service_design). This involves:
+ - Observing the applications in operations
+ - Talking with staff about the applications 
+ - Understanding the context, connections, process, and people using and delivering the services 
+ - Recognizing the behaviors, needs, and motivations of key groups 
+ - Identifying what’s working well and what isn’t 
+ - Mapping affinities 
+ - Making recommendations about what to develop 
+ - Using Agile software development methodologies 
+ - Applying UX/UI best practices to the development and testing of user interfaces 
+ - Testing and iterating solutions before launching them, and 
+ - Committing to continuous improvement to ensure the new applications always meet users’ needs 
 
--	We’re headquartered in Victoria but have members working across the province. We collaborate online with application users throughout B.C. Team members also go into the field to learn how users interact with FS applications in their places of work.
-
-## What does our team do?
-
-- Our team is modernizing the FSA by:
-    -	Taking a [human centred design approach](https://en.wikipedia.org/wiki/Human-centered_design) to our work, led by [service design](https://en.wikipedia.org/wiki/Service_design). This includes:
-        -	Observing the FSA in their work and technical environments
-        -	Talking with staff about the applications
-        -	Understanding the context, connections, process, and people using and delivering the services
-        -	Recognizing the behaviors, needs, and motivations of key groups
-        -	Identifying what's working well and what isn't with the current process
-        -	Mapping affinities and journey maps
-        -	Making recommendations about what to develop
-    -	Using [Agile](https://en.wikipedia.org/wiki/Agile_software_development) software development methodologies
-    -	Applying UX/UI best practices to the development and testing of user interfaces
-    -	Testing and iterating solutions before launching them
-    -	Committing to a cycle of continuous improvement to ensure the new applications meet users’ needs over the long term.
-
-## When do you engage with us?
-The FSA is 40+ applications and we’re going to modernize all of them over the next five years. Since they can’t be done all at once, we’ll to reach out to you when your program’s application is next in the queue. 
+## Engaging with us
+We aim to modernize all 40+ applications in the FSA. Since they can’t be done all at once, we’ll reach out to you when your program’s application is next in the queue.
   

@@ -6,8 +6,7 @@ description:
 ---
 ## Engage with Us  
 
-Please contact us with any questions or concerns.  
-Your feedback is incredibly valuable and plays a part in how we shape our online information, we would love to hear your feedback.  
+We'd love to hear from you. Please share your feedback with us:   
 
 ![Email Us](assets/images/email.svg) Email: [FSAModernizationProgram@gov.bc.ca](mailto:fsamodernizationprogram@gov.bc.ca)
 

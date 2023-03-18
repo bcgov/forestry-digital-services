@@ -6,7 +6,7 @@ description:
 ---
 
 
-<img src="assets/images/slide1.png" alt="FSA" width="50%" height="60%">
+<img src="assets/images/slide1.png" alt="FSA" width="10%" height="10%">
 ## The Forestry Suite of Applications Program 
 
 The Forestry Suite of Applications Program (FSA) is a five-year capital project program to modernize over 40 applications with new digital products and services. 

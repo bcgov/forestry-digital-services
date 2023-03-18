@@ -6,7 +6,7 @@ version: ''
 order: 1
 description: 
 ---
-## DevOps Quickstart 
+
 
 The DevOps Quickstart is a fully functional set of pipeline workflows and a starter application stack intended to help Agile DevOps teams hit the ground running. Currently OpenShift is supported with plans for AWS (Amazon Web Services). Pipelines are run using [GitHub Actions](https://github.com/bcgov/devops-quickstart/actions).
 

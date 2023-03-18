@@ -5,7 +5,7 @@ title: Reporting Silviculture Updates and Land Status Tracking System (RESULTS)
 order: 6
 description: 
 ---
-## Reporting Silviculture Updates and Land Status Tracking System (RESULTS) 
+
 Team Silva is modernizing the Reporting Silviculture Updates and Land Status Tracking System (RESULTS). 
 
 In B.C., rights to harvest timber on Crown land are granted through timber tenures. By law, tenure holders must reforest the land when the harvest is complete. The goal is sustainable forest management and associated objectives. 

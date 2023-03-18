@@ -5,7 +5,7 @@ title: Forest Access Management (FAM)
 order: 2
 description: 
 ---
-## Forest Access Management (FAM) 
+
 The Natural Resource Sector (NRS) has relied extensively on WebADE for digital The Fingerprint Team is improving secure access to the FSA using Forest Access Management (FAM). 
 
 FAM: 

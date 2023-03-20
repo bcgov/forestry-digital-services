@@ -25,7 +25,7 @@ We’re headquartered in Victoria but we have members working across the provinc
 
 Our team is modernizing the FSA by taking a [human centred design approach](https://en.wikipedia.org/wiki/Human-centered_design), led by [service design](https://en.wikipedia.org/wiki/Service_design). 
  This involves:
- - Observing the applications in operations
+ - Observing the applications in operation
  - Talking with staff about the applications 
  - Understanding the context, connections, process, and people using and delivering the services 
  - Recognizing the behaviors, needs, and motivations of key groups 

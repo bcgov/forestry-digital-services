@@ -23,8 +23,7 @@ We’re headquartered in Victoria but we have members working across the provinc
 
 ## How we work
 
-Our team is modernizing the FSA by:
-    Our team is modernizing the FSA by taking a [human centred design approach](https://en.wikipedia.org/wiki/Human-centered_design), led by [service design](https://en.wikipedia.org/wiki/Service_design). 
+Our team is modernizing the FSA by taking a [human centred design approach](https://en.wikipedia.org/wiki/Human-centered_design), led by [service design](https://en.wikipedia.org/wiki/Service_design). 
  This involves:
  - Observing the applications in operations
  - Talking with staff about the applications 

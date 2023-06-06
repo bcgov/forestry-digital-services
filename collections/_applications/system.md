@@ -3,7 +3,7 @@ layout: home
 name: Design system
 title: Design System
 order: 1
-description: Summary description of FSA's design system
+description:
 ---
 The FSA has developed a design system to ensure its modernized applications have a common look and feel, meet government’s branding requirements, and are accessible to all users.
 

@@ -20,7 +20,7 @@ The team has done extensive service design with SPAR and CONSEP users, including
 - Identifying pain points, and 
 - Recognizing functions to improve 
 
-The team has also developed a design system which the FSA program will use on all the applications it modernizes. Watch this [SPAR demonstration video](https://www.youtube.com/watch?v=3fSDjj-bAbE) to see how the design system will improve the user experience. 
+The team has also developed a [design system](https://bcgov.github.io/forestry-digital-services/applications/system.html) which the FSA program will use on all the applications it modernizes. Watch this [SPAR demonstration video](https://www.youtube.com/watch?v=3fSDjj-bAbE) to see how the design system will improve the user experience. 
 
 ## More information
 - docs:  [https://www2.gov.bc.ca/gov/content/industry/forestry/managing-our-forest-resources/tree-seed/seed-planning-use/spar](https://www2.gov.bc.ca/gov/content/industry/forestry/managing-our-forest-resources/tree-seed/seed-planning-use/spar)

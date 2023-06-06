@@ -13,8 +13,9 @@ Taking a human centred design approach, Alliance has so far:
 - Interviewed CLIENT users to understand their experience 
 - Mapped the application’s current state, identified pain points, and pinpointed improvements 
 - Developed prototypes and business logic for the new application 
-- Strategized how to move CLIENT's legacy data to a modern database, and 
-- Developed APIs to populate CLIENT with data automatically 
+- Strategized how to move CLIENT's legacy data to a modern database 
+- Developed APIs to populate CLIENT with data automatically, and
+- Built screens in Figma for the client intake form and the dashboard  
 
 ## More Information
 + github: Forest Client Frontend [https://github.com/bcgov/nr-forest-client/](https://github.com/bcgov/nr-forest-client/)

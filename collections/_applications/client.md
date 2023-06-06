@@ -17,6 +17,6 @@ Taking a human centred design approach, Alliance has so far:
 - Developed APIs to populate CLIENT with data automatically, and
 - Built screens in Figma for the client intake form and the dashboard  
 
-## More Information
+## More information
 + github: Forest Client Frontend [https://github.com/bcgov/nr-forest-client/](https://github.com/bcgov/nr-forest-client/)
 + github: Forest Client API [https://github.com/bcgov/nr-forest-client-api/](https://github.com/bcgov/nr-forest-client-api/)

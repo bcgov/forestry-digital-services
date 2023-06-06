@@ -14,5 +14,5 @@ FAM:
 - Solves the problem of ADAM's incompatibility with modern applications, and 
 - Uses Amazon Web Services (AWS) for its back and front-end infrastructure 
 
-## More Information
+## More information
 + github: [https://github.com/bcgov/nr-forests-access-management/wiki/](https://github.com/bcgov/nr-forests-access-management/wiki/)

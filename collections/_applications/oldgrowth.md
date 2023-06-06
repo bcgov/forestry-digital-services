@@ -12,6 +12,6 @@ The government had no way to track and manage potential deferral areas. In respo
 
 Alliance continues to support the form and has improved it to allow users to amend forms they've already submitted. The team is now working to adapt it to capture road permit information. 
 
-## More Information
+## More information
 + github: [https://github.com/bcgov/nr-old-growth](https://github.com/bcgov/nr-old-growth)
 + website: [https://www2.gov.bc.ca/gov/content/industry/forestry/managing-our-forest-resources/old-growth-forests/information-and-analysis/old-growth-deferral-field-verification](https://www2.gov.bc.ca/gov/content/industry/forestry/managing-our-forest-resources/old-growth-forests/information-and-analysis/old-growth-deferral-field-verification)

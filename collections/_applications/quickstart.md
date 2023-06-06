@@ -23,6 +23,6 @@ Features:
 
 This project is in active development.  Please visit our [issues](https://github.com/bcgov/devops-quickstart/issues) page to view or request features.
 
-## More Information
+## More information
 + github: [https://github.com/bcgov/devops-quickstart/](https://github.com/bcgov/devops-quickstart/)
   

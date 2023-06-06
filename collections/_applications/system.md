@@ -14,7 +14,7 @@ The FSA design system includes design principles, brand guidelines, typography, 
 The system promotes consistency, efficiency, and scalability of design, and helps designers and developers collaborate while working to a common design standard. The design system will be used in all the modernized applications.
 
 ## Carbon Design System
-The FSA design system is built on [IBM’s Carbon Design System] (https://carbondesignsystem.com/). Carbon was chosen because it’s both open source and a complete system, which means it’s free, well maintained by both IBM and the community, and easily customizable and extensible.
+The FSA design system is built on [IBM’s Carbon Design System](https://carbondesignsystem.com/). Carbon was chosen because it’s both open source and a complete system, which means it’s free, well maintained by both IBM and the community, and easily customizable and extensible.
 
 Carbon is also built for collaboration. Designers can use it to prototype designs while developers can easily build and implement those designs using the corresponding code. This seamless collaboration streamlines the design-to-development workflow and helps bridge the gap between design and implementation.
 

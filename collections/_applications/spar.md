@@ -2,7 +2,7 @@
 layout: home
 name: SPAR
 title: Seed Planning and Registry (SPAR) and Cone and Seed Program (CONSEP) 
-order: 7
+order: 8
 description: 
 ---
 

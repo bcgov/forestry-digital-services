@@ -18,7 +18,7 @@ The FSA design system is built on [IBM’s Carbon Design System](https://carbond
 
 Carbon is also built for collaboration. Designers can use it to prototype designs while developers can easily build and implement those designs using the corresponding code. This seamless collaboration streamlines the design-to-development workflow and helps bridge the gap between design and implementation.
 
-The FSA is committed to meeting the Web Content Accessibility Guidelines (WCAG) double A standard, which is the accepted international standard for accessible websites and application interfaces. The double A standard specifies objectives for designers to meet to ensure people with visual, auditory, cognitive, or motor impairments can access websites and applications.
+The FSA is committed to meeting the [Web Content Accessibility Guidelines (WCAG) double A standard](https://www.w3.org/WAI/WCAG2AA-Conformance), which is the accepted international standard for accessible websites and application interfaces. The double A standard specifies objectives for designers to meet to ensure people with visual, auditory, cognitive, or motor impairments can access websites and applications.
 
 The modernization program selected Carbon because of its evident commitment to accessibility. Most of its components are already compliant with WCAG standards, and it includes tools to help designers and developers create applications that are accessible to everyone.
 

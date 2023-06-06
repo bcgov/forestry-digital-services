@@ -1,7 +1,7 @@
 ---
 layout: home
 name: FSA design system
-title: FSA design system
+title: FSA Design System
 order: 1
 description:
 ---

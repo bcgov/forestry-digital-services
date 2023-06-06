@@ -3,7 +3,7 @@ layout: home
 name: QUICKSTART
 title: DevOps Quickstart
 version: ''
-order: 1
+order: 2
 description: 
 ---
 

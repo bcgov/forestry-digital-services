@@ -2,7 +2,7 @@
 layout: home
 name: FSA design system
 title: FSA Design System
-order: 1
+order: 5
 description:
 ---
 The FSA program has developed a design system to ensure its modernized applications have a common look and feel, meet government’s branding requirements, and are accessible to all users.

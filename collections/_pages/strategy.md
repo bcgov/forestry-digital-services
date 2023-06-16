@@ -5,13 +5,13 @@ title: Strategy
 description:        
 ---
 
-## The Forestry Suite of Applications 
+## Forestry Digital Services 
 
-The Forestry Suite of Applications (FSA) is 40+ software applications that are integral to forestry in B.C. 
+The Forestry Digital Services program includes 40+ software applications that are integral to forestry in B.C. 
 
-A review found the applications to be out-of-date and difficult to use. In 2021, the FSA Modernization Program was announced. It’s a five-year capital investment in new digital products and services to support forestry. 
+A review found the applications to be out-of-date and difficult to use. In 2021, the Forestry Digital Services (formerly know as the Forestry Suite of Applications) Program was announced. It’s a five-year capital investment in new digital products and services to support forestry. 
 
-The FSA Program has four teams:
+The FDS Program has four teams:
 1. **Alliance** created the [old forest deferral verification form](./applications/oldgrowth.html) and is modernizing the [Forest Client Management System](./applications/client.html). 
 2. **Encora** is modernizing the [Seed Planning and Registry and the Cone and Seed Program](./applications/spar.html) 
 3. **Fingerprint** is modernizing [Forest Access Management](./applications/fam.html) and the [Forest Operations Map](./applications/fom.html), and 
@@ -19,11 +19,11 @@ The FSA Program has four teams:
 
 Our teams are aiming to design services that meet the needs of diverse users, from members of the public to backend technical experts. 
 
-We’re headquartered in Victoria but we have members working across the province. We collaborate online with application users throughout B.C. Team members also go into the field to learn how users interact with FS applications in their places of work. 
+We’re headquartered in Victoria but we have members working across the province. We collaborate online with application users throughout B.C. Team members also go into the field to learn how users interact with the Province of BC's forestry applications in their places of work. 
 
 ## How we work
 
-Our team is modernizing the FSA by taking a [human centred design approach](https://en.wikipedia.org/wiki/Human-centered_design), led by [service design](https://en.wikipedia.org/wiki/Service_design). 
+Our team is modernizing the FDS by taking a [human centred design approach](https://en.wikipedia.org/wiki/Human-centered_design), led by [service design](https://en.wikipedia.org/wiki/Service_design). 
  This involves:
  - Observing the applications in operation
  - Talking with staff about the applications 
@@ -38,5 +38,5 @@ Our team is modernizing the FSA by taking a [human centred design approach](http
  - Committing to continuous improvement to ensure the new applications always meet users’ needs 
 
 ## Engaging with us
-We aim to modernize all 40+ applications in the FSA. Since they can’t be done all at once, we’ll reach out to you when your program’s application is next in the queue.
+We aim to modernize all 40+ applications in FDS. Since they can’t be done all at once, we’ll reach out to you when your program’s application is next in the queue.
   

@@ -7,14 +7,14 @@ description:
 
 ## Forestry Digital Services 
 
-The Forestry Digital Services program includes 40+ software applications that are integral to forestry in B.C. 
+The Forestry Digital Services (FDS) program (formerly know as the Forestry Suite of Applications) includes 40+ software applications that are integral to forestry in B.C. 
 
-A review found the applications to be out-of-date and difficult to use. In 2021, the Forestry Digital Services (formerly know as the Forestry Suite of Applications) Program was announced. It’s a five-year capital investment in new digital products and services to support forestry. 
+A review found the applications to be out-of-date and difficult to use. In 2021, the Forestry Digital Services Program was announced. It’s a five-year capital investment in new digital products and services to support forestry. 
 
-The FDS Program has four teams:
+The FDS has four teams:
 1. **Alliance** created the [old forest deferral verification form](./applications/oldgrowth.html) and is modernizing the [Forest Client Management System](./applications/client.html). 
-2. **Encora** is modernizing the [Seed Planning and Registry and the Cone and Seed Program](./applications/spar.html) 
-3. **Fingerprint** is modernizing [Forest Access Management](./applications/fam.html) and the [Forest Operations Map](./applications/fom.html), and 
+2. **Evergreen** is modernizing the [Seed Planning and Registry and the Cone and Seed Program](./applications/spar.html) 
+3. **Heartwood** is modernizing [Forest Access Management](./applications/fam.html) and the [Forest Operations Map](./applications/fom.html), and 
 4. **Silva** is modernizing the [Reporting Silviculture Updates and Land Status Tracking System](./applications/results.html)
 
 Our teams are aiming to design services that meet the needs of diverse users, from members of the public to backend technical experts. 

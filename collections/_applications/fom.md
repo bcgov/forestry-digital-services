@@ -13,8 +13,6 @@ Visit [the FOM website](https://fom.nrs.gov.bc.ca/public/projects#splash) to fin
 
 Watch [How to use BC’s new Forest Operations Map (FOM) webtool for public commenting](https://www.youtube.com/watch?v=FmwlnJsd5P8) to learn how to use the map for commenting. 
 
-
-
 ## More information 
 - Technology Stack: Angular, Node.js, PostgresSQL with PostGIS running in OCP v4
 This is a mono-repo that includes the API backend and the two Angular front-ends.

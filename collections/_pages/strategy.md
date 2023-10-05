@@ -7,7 +7,7 @@ description:
 
 ## Forestry Digital Services 
 
-The Forestry Digital Services (FDS) program (formerly know as the Forestry Suite of Applications) includes 40+ software applications that are integral to forestry in B.C. 
+The Forestry Digital Services (FDS) program (formerly known as the Forestry Suite of Applications) includes 40+ software applications that are integral to forestry in B.C. 
 
 A review found the applications to be out-of-date and difficult to use. In 2021, the Forestry Digital Services Program was announced. It’s a five-year capital investment in new digital products and services to support forestry. 
 

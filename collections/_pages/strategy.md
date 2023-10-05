@@ -32,7 +32,7 @@ Our team is modernizing the FDS by taking a [human centred design approach](http
  - Identifying what’s working well and what isn’t 
  - Mapping affinities 
  - Making recommendations about what to develop 
- - Using Agile software development methodologies 
+ - Using agile software development methodologies 
  - Applying UX/UI best practices to the development and testing of user interfaces 
  - Testing and iterating solutions before launching them, and 
  - Committing to continuous improvement to ensure the new applications always meet users’ needs 

@@ -5,22 +5,19 @@ title: Seed Planning and Registry (SPAR) and Cone and Seed Program (CONSEP)
 order: 8
 description: 
 ---
+The Ministry of Forests' online tree seed registry is known as SPAR. It’s used to track information about seedlots, orchards, and parent trees; order seeds, seedlings, and cones; and request seed processing, sampling, testing, and transfers.
 
-Team Evergreen is modernizing the Seed Planning and Registry (SPAR) and the Cone and Seed Program (CONSEP). 
+CONSEP tracks seeds in the Tree Seed Centre’s freezers, contains seed preparation recipes, and integrates with the centre’s hardware.
 
-SPAR is the Ministry of Forests’ online tree seed registry. It's used to: 
-- Track information about seedlots, orchards, and parent trees 
-- Order seeds, seedlings, and cones, and 
-- Request seed processing, sampling, testing, and transfers 
+Team Evergreen is modernizing SPAR and CONSEP. To date, the team has done extensive service design with SPAR and CONSEP users, including mapping the applications’ current states, identifying pain points, and recognizing functions that must be improved.
 
-CONSEP tracks seeds in the [Tree Seed Centre](https://www2.gov.bc.ca/gov/content?id=B33FA5CCACF949158DA2DA602A6D9C5F)'s freezers, contains seed preparation recipes, and integrates with the centre’s hardware. 
+Team Evergreen is now developing SPAR screens for veg lots. The original SPAR is for seedlots not veg lots. So, veg lot owners have had to use time consuming workarounds to get their data into the system.
+ 
+Evergreen is using service design and user experience (UX) design to ensure the new SPAR also works for veg lot owners. So far, the team's designed, prototyped and tested the veg lot screens. It will soon begin their development before moving into UAT.
 
-The team has done extensive service design with SPAR and CONSEP users, including: 
-- Mapping the applications’ current states 
-- Identifying pain points, and 
-- Recognizing functions to improve 
+In addition to its work on SPAR and CONSEP, Team Evergreen contributed to the development of a design system that FDS will use on all the applications it modernizes.
 
-The team has also developed a [design system](https://bcgov.github.io/forestry-digital-services/applications/system.html) FDS will use on all the applications it modernizes. Watch this [SPAR demonstration video](https://www.youtube.com/watch?v=3fSDjj-bAbE) to see how the design system will improve the user experience. 
+Watch this [SPAR demonstration video](https://www.youtube.com/watch?v=3fSDjj-bAbE) to see how the design system will improve the user experience.
 
 ## More information
 - docs:  [https://www2.gov.bc.ca/gov/content/industry/forestry/managing-our-forest-resources/tree-seed/seed-planning-use/spar](https://www2.gov.bc.ca/gov/content/industry/forestry/managing-our-forest-resources/tree-seed/seed-planning-use/spar)

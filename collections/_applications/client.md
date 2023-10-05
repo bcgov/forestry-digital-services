@@ -6,16 +6,16 @@ order: 1
 description: 
 ---
 
-Team Alliance is modernizing CLIENT, which is the Ministry of Forests’ system for managing its business relationship with B.C.'s forest sector and other natural resource industries. 
+Team Alliance is modernizing Client, which is the Ministry of Forests’ system for managing its business relationship with B.C.’s forest sector and other natural resource industries.
 
-Taking a human centred design approach, Alliance has so far:  
+Taking a human centred design approach, Alliance has so far:
 
-- Interviewed CLIENT users to understand their experience 
-- Mapped the application’s current state, identified pain points, and pinpointed improvements 
-- Developed prototypes and business logic for the new application 
-- Strategized how to move CLIENT's legacy data to a modern database 
-- Developed APIs to populate CLIENT with data automatically, and
-- Built screens in Figma for the client intake form and the dashboard  
+- Mapped the application’s current state, identified pain points, and pinpointed improvements
+- Created prototypes and business logic for the new application
+- Written APIs to populate Client with data automatically, and 
+- Built and is testing Client's intake form and dashboard in a development environment
+
+The team continues to develop, test, and refine Client with a goal of launching a “simplified” version of the application by the end of 2023.
 
 ## More information
 + github: Forest Client Frontend [https://github.com/bcgov/nr-forest-client/](https://github.com/bcgov/nr-forest-client/)

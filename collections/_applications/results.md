@@ -23,4 +23,5 @@ RESULTS is being modernized because it:
 Modernization aims to address these and other issues and create a RESULTS application that meets the needs of all users. 
 
 ## More information
-- docs:  [https://www2.gov.bc.ca/gov/content/industry/forestry/managing-our-forest-resources/silviculture/silviculture-reporting-results](https://www2.gov.bc.ca/gov/content/industry/forestry/managing-our-forest-resources/silviculture/silviculture-reporting-results)
+- docs: [https://www2.gov.bc.ca/gov/content/industry/forestry/managing-our-forest-resources/silviculture/silviculture-reporting-results](https://www2.gov.bc.ca/gov/content/industry/forestry/managing-our-forest-resources/silviculture/silviculture-reporting-results)
+- docs: [https://github.com/bcgov/nr-silva/wiki](https://github.com/bcgov/nr-silva/wiki)

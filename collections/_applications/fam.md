@@ -8,11 +8,7 @@ description:
 
 The Natural Resource Sector (NRS) has relied extensively on WebADE for digital. Team Heartwood is improving secure access to the FDS using Forest Access Management (FAM). 
 
-FAM: 
-- Defines and manages authorization rules including for groups, roles and delegations 
-- Provides IDIR and business BCeID authentication and authorization support 
-- Solves the problem of ADAM's incompatibility with modern applications, and 
-- Uses Amazon Web Services (AWS) for its back and front-end infrastructure 
+FAM streamlines and standardizes authorization and integrates with trusted service providers. It empowers business users to define and manage their own groups, roles, and delegations. FAM frees users from legacy systems and enables automation, while also putting control in the hands of forest clients.
 
 ## More information
 + github: [https://github.com/bcgov/nr-forests-access-management/wiki/](https://github.com/bcgov/nr-forests-access-management/wiki/)

@@ -36,5 +36,5 @@ Our team is modernizing the FDS by taking a [human centred design approach](http
  - Committing to continuous improvement to ensure the new applications always meet users’ needs 
 
 ## Engaging with us
-We aim to modernize all 40+ applications in FDS. Since they can’t be done all at once, we’ll reach out to you when your program’s application is next in the queue.
+We aim to modernize all 40+ applications in FDS and create some new ones. Since they can’t be done all at once, we’ll reach out to you when your program’s application is next in the queue.
   

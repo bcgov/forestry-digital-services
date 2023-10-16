@@ -23,7 +23,7 @@ See the `collections` key in the config.yaml
 
 GitHub Pages understands Jekyll and will build and deploy sites automatically, do **not** check in the *_site* directory.
 
-## <span style="color:red">**For NON-TECHIES -- You can update via the github code repository GUI (IF YOU HAVE PRIVLEDGES), and/or you can follow the steps below:
+## <span style="color:red">**For NON-TECHIES -- You can update via the github code repository GUI (IF YOU HAVE PRIVILEGES), and/or you can follow the steps below:
 test out your markdown with this dandy tool <red> - [https://markdown-it.github.io/](https://markdown-it.github.io/)** </span>
 
 

@@ -17,7 +17,7 @@ The FDS has four teams:
 3. **Heartwood** is modernizing [Forest Access Management](./applications/fam.html) and the [Forest Operations Map](./applications/fom.html), and 
 4. **Silva** is modernizing the [Reporting Silviculture Updates and Land Status Tracking System](./applications/results.html)
 
-Our teams are aiming to design services that meet the needs of diverse users, from members of the public to backend technical experts. 
+The teams use human-centred design to ensure the applications meet the needs of all users.
 
 We’re headquartered in Victoria but we have members working across the province. We collaborate online with application users throughout B.C. Team members also go into the field to learn how users interact with the Province of BC's forestry applications in their places of work. 
 

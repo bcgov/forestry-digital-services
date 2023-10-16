@@ -13,9 +13,9 @@ A review found the applications to be out-of-date and difficult to use. In 2021,
 
 The FDS has four teams:
 1. **Alliance** created the [old forest deferral verification form](./applications/oldgrowth.html) and is modernizing the [Forest Client Management System](./applications/client.html). 
-2. **Evergreen** is modernizing the [Seed Planning and Registry and the Cone and Seed Program](./applications/spar.html) 
-3. **Heartwood** created [Forest Access Management](./applications/fam.html) and the [Forest Operations Map](./applications/fom.html), and is developing the [Forest Operations Plan](./applications/fop.html), and
-4. **Silva** is modernizing the [Reporting Silviculture Updates and Land Status Tracking System](./applications/results.html)
+2. **Evergreen** is modernizing the [Seed Planning and Registry and the Cone and Seed Program](./applications/spar.html). 
+3. **Heartwood** created [Forest Access Management](./applications/fam.html) and the [Forest Operations Map](./applications/fom.html), and is developing the [Forest Operations Plan](./applications/fop.html).
+4. **Silva** is modernizing the [Reporting Silviculture Updates and Land Status Tracking System](./applications/results.html).
 
 We’re headquartered in Victoria but we have members working across the province. We collaborate online with application users throughout B.C. Team members also go into the field to learn how users interact with the Province of BC's forestry applications in their places of work. 
 

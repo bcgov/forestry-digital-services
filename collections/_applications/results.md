@@ -20,7 +20,9 @@ RESULTS is being modernized because it:
 - Generates error messages that are hard to understand and challenging to correct, and 
 - Makes user authorization cumbersome 
 
-Modernization aims to address these and other issues and create a RESULTS application that meets the needs of all users. 
+Modernization aims to address these and other issues and create a new application that meets the needs of all users.
+
+Historically applications are renamed when they’re modernized. Silva will be the name of the new tracking application. It was chosen because _silva_ means forest in Latin, is the root word of “silviculture”, and is the name of the team developing it.
 
 ## More information
 - docs: [https://www2.gov.bc.ca/gov/content/industry/forestry/managing-our-forest-resources/silviculture/silviculture-reporting-results](https://www2.gov.bc.ca/gov/content/industry/forestry/managing-our-forest-resources/silviculture/silviculture-reporting-results)

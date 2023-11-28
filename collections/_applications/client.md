@@ -15,7 +15,7 @@ Taking a human centred design approach, Alliance has so far:
 - Written APIs to populate Client with data automatically, and 
 - Built and is testing Client's intake form and dashboard in a development environment
 
-The team continues to develop, test, and refine Client with a goal of launching a “simplified” version of the application by the end of 2023.
+The team continues to develop, test, and refine Client with a goal of launching a “simplified” version of the application in early 2024.
 
 ## More information
 + github: Forest Client Frontend [https://github.com/bcgov/nr-forest-client/](https://github.com/bcgov/nr-forest-client/)

@@ -1,12 +1,12 @@
 ---
 layout: home
-name: CLIENT
-title: Client Management System (CLIENT) 
+name: Client
+title: Client Management System (Client) 
 order: 1
 description: 
 ---
 
-Team Alliance is modernizing Client, which is the Ministry of Forests’ system for managing its business relationship with B.C.’s forest sector and other natural resource industries.
+Team Alliance is modernizing the Client Management System, which is the Ministry of Forests’ system for managing its business relationship with B.C.’s forest sector and other natural resource industries.
 
 Taking a human centred design approach, Alliance has so far:
 

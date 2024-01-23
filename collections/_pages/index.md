@@ -13,7 +13,7 @@ The Forestry Digital Services program (formerly known as the FSA Forestry Suite 
 
 A driver of this change is [Modernizing Forest Policy in British Columbia](https://www2.gov.bc.ca/gov/content/industry/forestry/competitive-forest-industry) which outlines government’s vision for forestry. B.C.’s forestry policy framework is two decades old and is inadequate for today’s challenges. So now is the time to modernize forestry in ways that also support [StrongerBC](https://strongerbc.gov.bc.ca/), B.C.’s economic recovery plan. 
 
-For more information about modernization, see our [introductory video](https://www.youtube.com/watch?v=l7OSu6n_9EE). 
+For more information about modernization, see our [introductory video](https://youtu.be/MT6o0dShzro). 
 
 ## The program’s mission 
 

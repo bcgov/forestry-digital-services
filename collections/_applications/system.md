@@ -12,3 +12,5 @@ A design system is a collection of guidelines, standards, and reusable component
 The design system is being used on all the applications FDS is modernizing.
 
 FDS’s system meets the [Web Content Accessibility Guidelines (WCAG) double A standard](https://www.w3.org/WAI/WCAG2AA-Conformance). This is the international standard for accessible websites and application interfaces.
+
+For more information about the system, see our [Forestry Digital Services - Service Design video](https://www.youtube.com/watch?v=pWMhSRMOcz0) video.

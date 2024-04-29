@@ -4,7 +4,7 @@ name: QUICKSTART
 title: DevOps Quickstart
 version: ''
 order: 1
-description: Information about DevOps Quickstart.
+description:
 ---
 
 

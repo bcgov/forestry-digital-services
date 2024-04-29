@@ -2,7 +2,7 @@
 layout: home
 name: HOME
 title: Overview
-description:        
+description: Information about Forestry Digital Services (FDS) which was formerly known as the Forestry Suite of Applications Program.        
 ---
 
 

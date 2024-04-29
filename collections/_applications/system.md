@@ -3,7 +3,7 @@ layout: home
 name: FDS design system
 title: FDS Design System
 order: 2
-description: The design system developed by Forestry Digital Services (FDS).
+description:
 ---
 FDS has developed a design system to ensure its modernized applications have a common look and feel, meet government’s branding requirements, and are accessible to all users.
 

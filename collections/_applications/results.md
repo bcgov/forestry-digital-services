@@ -3,7 +3,7 @@ layout: home
 name: RESULTS
 title: Reporting Silviculture Updates and Land Status Tracking System (RESULTS) 
 order: 8
-description: How Forestry Digital Services (FDS) is modernizing the Reporting Silviculture Updates and Land Status Tracking System (RESULTS).
+description:
 ---
 
 Team Silva is modernizing the Reporting Silviculture Updates and Land Status Tracking System (RESULTS). 

@@ -3,7 +3,7 @@ layout: home
 name: Client
 title: Forests Client Management System (Client) 
 order: 6
-description: How Foresty Digital Services (FDS) Team Alliance is modernizing the Forests Client Management System (Client).
+description:
 ---
 
 Team Alliance is in the process of modernizing the Forests Client Management System (Client), which is the Ministry of Forests’ system for managing its business relationship with B.C.’s forest sector and other natural resource industries.

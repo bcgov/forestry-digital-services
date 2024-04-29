@@ -2,7 +2,7 @@
 layout: page
 name: ENGAGE
 title: The Forestry Digital Services Program Team
-description: Contact information for Forestry Digital Services.
+description:
 ---
 ## Engage with Us  
 

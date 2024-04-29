@@ -2,7 +2,7 @@
 layout: home
 name: FOM
 title: Forest Operations Plan (FOP)
-order: 6
+order: 5
 description: 
 ---
 

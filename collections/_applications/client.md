@@ -2,7 +2,7 @@
 layout: home
 name: Client
 title: Client Management System (Client) 
-order: 1
+order: 6
 description: 
 ---
 

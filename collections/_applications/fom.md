@@ -3,7 +3,7 @@ layout: home
 name: FOM
 title: Forest Operations Map (FOM)
 order: 4
-description: 
+description: How FDS Team Heartwood created the Forest Operations Map (FOM).
 ---
 
 Team Heartwood created the Forest Operations Map (FOM). FOM enables Forest Stewardship Plan (FSP) holders to show planned cutblocks and road developments. The goal is to improve public engagement on forest practices by opening them to public review and comment. 

@@ -1,7 +1,7 @@
 ---
 layout: home
 name: Client
-title: Client Management System (Client) 
+title: Forests Client Management System (Client) 
 order: 6
 description: 
 ---

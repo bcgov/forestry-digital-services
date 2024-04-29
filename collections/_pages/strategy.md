@@ -2,7 +2,7 @@
 layout: home
 name: STRATEGY
 title: Strategy
-description: Strategy and purpose of the Forestry Digital Services (FDS) program. 
+description:
        
 ---
 

@@ -2,7 +2,8 @@
 layout: home
 name: STRATEGY
 title: Strategy
-description:        
+description: Strategy and purpose of the Forestry Digital Services (FDS) program. 
+       
 ---
 
 ## Forestry Digital Services 
@@ -12,7 +13,7 @@ The Forestry Digital Services (FDS) program (formerly known as the Forestry Suit
 A review found the applications to be out-of-date and difficult to use. In 2021, the Forestry Digital Services Program was announced. It’s a five-year capital investment in new digital products and services to support forestry. 
 
 The FDS has four teams:
-1. **Alliance** created the [old forest deferral verification form](./applications/oldgrowth.html) and is modernizing the [Forest Client Management System](./applications/client.html). 
+1. **Alliance** created the [old forest deferral verification form](./applications/oldgrowth.html) and is modernizing the [Forests Client Management System](./applications/client.html). 
 2. **Evergreen** is modernizing the [Seed Planning and Registry and the Cone and Seed Program](./applications/spar.html). 
 3. **Heartwood** created [Forest Access Management](./applications/fam.html) and the [Forest Operations Map](./applications/fom.html), and is developing the [Forest Operations Plan](./applications/fop.html).
 4. **Silva** is modernizing the [Reporting Silviculture Updates and Land Status Tracking System](./applications/results.html).

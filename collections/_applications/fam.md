@@ -3,7 +3,7 @@ layout: home
 name: FAM
 title: Forest Access Management (FAM)
 order: 3
-description: 
+description: FDS Team Heartwood and the creation of Forest Access Management (FAM).
 ---
 
 The Natural Resource Sector (NRS) has relied extensively on WebADE for digital. Team Heartwood is improving secure access to the FDS using Forest Access Management (FAM). 

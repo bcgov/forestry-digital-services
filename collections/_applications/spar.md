@@ -13,12 +13,12 @@ FDS Team Evergreen is modernizing SPAR and CONSEP.
 
 The first release of the modernized SPAR 2.0 was in August 2024. It focused on A-Class seedlots which are seed collections from seed orchards. Key features of the release include:
 
-•	A modernized screen for A-class seedlot registration
-•	An intuitive user-interface design
-•	An informative system feedback functionality with progressive disclosure and helper text
-•	Data upload to reduce manual data entry
-•	A smart save feature to prevent data loss, and
-•	A database replacement to improve SPAR’s memory and ability to make complex calculations
+-	A modernized screen for A-class seedlot registration
+-	An intuitive user-interface design
+-	An informative system feedback functionality with progressive disclosure and helper text
+-	Data upload to reduce manual data entry
+-	A smart save feature to prevent data loss, and
+-	A database replacement to improve SPAR’s memory and ability to make complex calculations
 
 The screens will save SPAR 2.0 users time and effort, improve the application's data quality and accuracy, and help seedlot owners and the centre’s staff manage collections.
 

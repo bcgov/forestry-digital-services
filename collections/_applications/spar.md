@@ -5,7 +5,7 @@ title: Seed Planning and Registry (SPAR) and Cone and Seed Program (CONSEP)
 order: 9
 description:
 ---
-The Ministry of Forests’ online tree seed registry is called SPAR. It tracks information about seedlots, orchards, and parent trees; order seeds, seedlings, and cones; and request seed processing, sampling, testing, and transfers.
+The Ministry of Forests’ online tree seed registry is called SPAR. It's used to track information about seedlots, orchards, and parent trees; order seeds, seedlings, and cones; and request seed processing, sampling, testing, and transfers.
 
 CONSEP tracks seeds in the [Tree Seed Centre’s](https://www2.gov.bc.ca/gov/content?id=B33FA5CCACF949158DA2DA602A6D9C5F) freezers, contains seed preparation recipes, and integrates with the centre’s hardware. (The centre is the main supplier of cone and seed services to B.C.’s forest industry.)
 

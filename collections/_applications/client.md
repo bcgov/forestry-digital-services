@@ -11,7 +11,7 @@ Team Alliance is in the process of modernizing the Forests Client Management Sys
 So far, Alliance has:
 
 - Launched an [online form](https://www2.gov.bc.ca/gov/content?id=E290320237694A9584C0CABC5DE3B9F2) so legal entities and individuals can request a Ministry of Forests client number via the web
-- Created a dashboard for staff to use to manage online client number submissions,
+- Created a dashboard for staff to use to manage online client number submissions
 - Made it possible for staff to use the dashboard to create numbers for in-person applicants, and
 - Implemented a simple search.
 

@@ -27,5 +27,6 @@ Evergreen has turned its attention to modernizing CONSEP, which is an applicatio
 More information about SPAR and CONSEP modernization will be available on these pages as it becomes available.
 
 ## More information
+- ['Sowing seeds of change: Transforming SPAR'](https://digital.gov.bc.ca/2024/09/20/spar/) on [digital.gov.bc.ca](https://digital.gov.bc.ca/)
 - docs:  [https://www2.gov.bc.ca/gov/content/industry/forestry/managing-our-forest-resources/tree-seed/seed-planning-use/spar](https://www2.gov.bc.ca/gov/content/industry/forestry/managing-our-forest-resources/tree-seed/seed-planning-use/spar)
 - github: [https://github.com/bcgov/nr-spar](https://github.com/bcgov/nr-spar)

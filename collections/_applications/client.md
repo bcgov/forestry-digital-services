@@ -25,6 +25,6 @@ These features are scheduled to go live next year.
 
 ## More information
 + Ministry of Forests client number [online submission form](https://www2.gov.bc.ca/gov/content?id=E290320237694A9584C0CABC5DE3B9F2)
-+ Serving clients better: Transforming the Forests Client Management System [https://digital.gov.bc.ca/2024/11/19/forests-client-management/](https://digital.gov.bc.ca/2024/11/19/forests-client-management/)
++ [Serving clients better: Transforming the Forests Client Management System](https://digital.gov.bc.ca/2024/11/19/forests-client-management/)
 + github: Forest Client Frontend [https://github.com/bcgov/nr-forest-client/](https://github.com/bcgov/nr-forest-client/)
 + github: Forest Client API [https://github.com/bcgov/nr-forest-client-api/](https://github.com/bcgov/nr-forest-client-api/)

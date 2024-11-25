@@ -6,7 +6,7 @@ order: 8
 description:
 ---
 
-Team Silva is modernizing the Reporting Silviculture Updates and Land Status Tracking System (RESULTS), which will be called Silva. It was chosen because _silva_ means forest in Latin, is the root word of “silviculture”, and is the name of the team developing it.
+Team Silva is modernizing the Reporting Silviculture Updates and Land Status Tracking System (RESULTS), which will be called Silva. (It was chosen because _silva_ means forest in Latin, is the root word of “silviculture”, and is the name of the team developing it.)
 
 In B.C., rights to harvest timber on Crown land are granted through timber tenures. By law, tenure holders must reforest the land when the harvest is complete. The goal is sustainable forest management and associated objectives. 
 

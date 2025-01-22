@@ -17,11 +17,10 @@ So far, Alliance has:
 
 Alliance is working to add more functionality to Forests Client. This includes the ability to use the dashboard to:
 
--	See a client's BC Registry standing
-- View and edit client data, and
+-	View and edit client data, and
 -	Add related clients.
 
-These features are scheduled to go live next year.
+These features are scheduled to go live in 2025.
 
 ## More information
 + Ministry of Forests client number [online submission form](https://www2.gov.bc.ca/gov/content?id=E290320237694A9584C0CABC5DE3B9F2)

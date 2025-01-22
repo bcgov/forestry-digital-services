@@ -1,12 +1,12 @@
 ---
 layout: home
 name: Client
-title: Forests Client Management System (Client) 
+title: Forests Client Management System (Forests Client) 
 order: 6
 description:
 ---
 
-Team Alliance is in the process of modernizing the Forests Client Management System (CForests Client), which is the Ministry of Forests’ system for managing its business relationship with B.C.’s forest sector and other natural resource industries.
+Team Alliance is in the process of modernizing the Forests Client Management System (Forests Client), which is the Ministry of Forests’ system for managing its business relationship with B.C.’s forest sector and other natural resource industries.
 
 So far, Alliance has:
 

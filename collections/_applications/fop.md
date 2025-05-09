@@ -2,8 +2,8 @@
 layout: home
 name: FOM
 title: Forest Operations Plan (FOP)
-order: 6
-description: 
+order: 5
+description:
 ---
 
 A Forest Landscape Plan (FLP) is a strategic plan for managing forests in a specific area of British Columbia. The plans:

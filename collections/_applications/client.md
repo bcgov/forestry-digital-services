@@ -1,22 +1,29 @@
 ---
 layout: home
 name: Client
-title: Client Management System (Client) 
-order: 1
-description: 
+title: Forests Client Management System (Forests Client) 
+order: 6
+description:
 ---
 
-Team Alliance is modernizing the Client Management System, which is the Ministry of Forests’ system for managing its business relationship with B.C.’s forest sector and other natural resource industries.
+Team Alliance is in the process of modernizing the Forests Client Management System (Forests Client), which is the Ministry of Forests’ system for managing its business relationship with B.C.’s forest sector and other natural resource industries.
 
-Taking a human centred design approach, Alliance has so far:
+So far, Alliance has:
 
-- Mapped the application’s current state, identified pain points, and pinpointed improvements
-- Created prototypes and business logic for the new application
-- Written APIs to populate Client with data automatically, and 
-- Built and is testing Client's intake form and dashboard in a development environment
+- Launched an [online form](https://www2.gov.bc.ca/gov/content?id=E290320237694A9584C0CABC5DE3B9F2) so legal entities and individuals can request a Ministry of Forests client number via the web
+- Created a dashboard for staff to use to manage online client number submissions
+- Made it possible for staff to use the dashboard to create numbers for in-person applicants, and
+- Implemented a simple search.
 
-The team continues to develop, test, and refine Client with a goal of launching a “simplified” version of the application in early 2024.
+Alliance is working to add more functionality to Forests Client. This includes the ability to use the dashboard to:
+
+-	View and edit client data, and
+-	Add related clients.
+
+These features are scheduled to go live in 2025.
 
 ## More information
++ Ministry of Forests client number [online submission form](https://www2.gov.bc.ca/gov/content?id=E290320237694A9584C0CABC5DE3B9F2)
++ [Serving clients better: Transforming the Forests Client Management System](https://digital.gov.bc.ca/2024/11/19/forests-client-management/) on [digital.gov.bc.ca](https://digital.gov.bc.ca/)
 + github: Forest Client Frontend [https://github.com/bcgov/nr-forest-client/](https://github.com/bcgov/nr-forest-client/)
 + github: Forest Client API [https://github.com/bcgov/nr-forest-client-api/](https://github.com/bcgov/nr-forest-client-api/)

@@ -12,7 +12,7 @@ In B.C., timber harvesting rights on Crown land come with the obligation to refo
 
 RESULTS is being transformed because it:
 
-- Is incompatibility with modern browsers
+- Is incompatible with modern browsers
 - Has high maintenance costs
 - Relies on manual workarounds
 - Employs a difficult user interface

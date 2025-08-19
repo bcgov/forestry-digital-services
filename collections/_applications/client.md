@@ -3,7 +3,7 @@ layout: home
 name: Client
 title: Forests Client Management System (Forests Client) 
 order: 6
-description: Team Alliance is transforming the Forests Client, the Ministry of Forests’ digital platform for managing business relationships with British Columbia’s forest industry and natural resource sectors. This modernization enhances client data management, online services, and operational efficiency.
+description:
 ---
 Team Alliance is currently modernizing Forests Client, the Ministry of Forests’ application for managing its business relationships with B.C.’s forest sector and other natural resource industries.
 To date, Alliance has:

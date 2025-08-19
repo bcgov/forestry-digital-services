@@ -1,31 +1,31 @@
 ---
 layout: home
-name: RESULTS
-title: Reporting Silviculture Updates and Land Status Tracking System (RESULTS) 
+name: Silva
+title: Silva 
 order: 8
 description:
 ---
 
-Team Silva is modernizing the Reporting Silviculture Updates and Land Status Tracking System (RESULTS), which will be called Silva. (It was chosen because _silva_ means forest in Latin, is the root word of “silviculture”, and is the name of the team developing it.)
+Team Verso (formerly Team Silva) is transforming the Reporting Silviculture Updates and Land Status Tracking System (RESULTS). The new application is called 'Silva' which is the Latin word for forest, the root of silviculture.
 
-In B.C., rights to harvest timber on Crown land are granted through timber tenures. By law, tenure holders must reforest the land when the harvest is complete. The goal is sustainable forest management and associated objectives. 
+In B.C., timber harvesting rights on Crown land come with the obligation to reforest, supporting sustainable forest management. Silva helps meet these obligations by tracking silviculture activities, land investments, and forest conditions. Its data also informs land use decisions and key initiatives.
 
-RESULTS is the application that helps meet these obligations. It's a database of information on silviculture accomplishments and land base investments. This includes harvesting and natural disturbances, stocking standards, planting activities, and tree species. Its data is also used to support land use decisions and key initiatives. 
+RESULTS is being transformed because it:
 
-RESULTS is being modernized because it: 
-- Is incompatible with modern browsers 
-- Has high maintenance costs 
-- Relies on time consuming manual workarounds 
-- Employs a challenging user interface (UI) 
-- Generates error messages that are hard to understand and challenging to correct, and 
-- Makes user authorization cumbersome 
+- Is incompatibility with modern browsers
+- Has high maintenance costs
+- Relies on manual workarounds
+- Employs a difficult user interface
+- Generates confusing error messages
+- Makes user authorizations cumbersome
 
-Modernization aims to address these and other issues and create a new application that meets the needs of all users.
+To date, the team has rewritten the codebase, which reduced system dependencies and prepared the application for future enhancements.
 
-Team Silva is currently testing the new opening search feature and the opening homepage, which also includes a map viewer and dashboard. The team will analyze testers' feedback and incorporate their findings into the design.
+It has also launched read-only access to Silva. Users can now view forest openings, activities, milestones, attachments and use a dashboard with a map viewer. Tester feedback is helping the team’s designers and developers refine and improve the interface.
 
-The team continues to work to launch the first phase of the modernized application in early 2025.
+By the end of 2025, the team expects Silva will allow users to create and manage forest openings. This will streamline workflows, simplify record editing, and improve spatial data integration.
 
 ## More information
+- website: [https:www.gov.bc.ca/silva](https:www.gov.bc.ca/silva)
 - docs: [https://www2.gov.bc.ca/gov/content/industry/forestry/managing-our-forest-resources/silviculture/silviculture-reporting-results](https://www2.gov.bc.ca/gov/content/industry/forestry/managing-our-forest-resources/silviculture/silviculture-reporting-results)
 - docs: [https://github.com/bcgov/nr-silva/wiki](https://github.com/bcgov/nr-silva/wiki)

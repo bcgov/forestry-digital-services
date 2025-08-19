@@ -26,6 +26,6 @@ It has also launched read-only access to Silva. Users can now view forest openin
 By the end of 2025, the team expects Silva will allow users to create and manage forest openings. This will streamline workflows, simplify record editing, and improve spatial data integration.
 
 ## More information
-- website: [www.gov.bc.ca/silva](https:www.gov.bc.ca/silva)
+- website: [www.gov.bc.ca/silva](https://www2.gov.bc.ca/gov/content?id=12603F97D7324AE68134D7B372937016)
 - docs: [https://www2.gov.bc.ca/gov/content/industry/forestry/managing-our-forest-resources/silviculture/silviculture-reporting-results](https://www2.gov.bc.ca/gov/content/industry/forestry/managing-our-forest-resources/silviculture/silviculture-reporting-results)
 - docs: [https://github.com/bcgov/nr-silva/wiki](https://github.com/bcgov/nr-silva/wiki)

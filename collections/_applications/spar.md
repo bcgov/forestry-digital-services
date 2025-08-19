@@ -2,7 +2,7 @@
 layout: home
 name: SPAR
 title: Seed Planning and Registry (SPAR) and Cone and Seed Program (CONSEP) 
-order: 9
+order: 8
 description:
 ---
 The Ministry of Forests’ online tree seed registry is called SPAR. It's used to track information about seedlots, orchards, and parent trees; order seeds, seedlings, and cones; and request seed processing, sampling, testing, and transfers.

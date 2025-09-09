@@ -20,5 +20,6 @@ Waste Plus is early in its development. Team Alliance is currently designing a d
 
 Designs are being shared with users, and feedback is being gathered to ensure the system is easy to use. The goal is to release the first version of Waste Plus in 2026.
 
-##More information
-github: https://github.com/bcgov/nr-waste-plus
+## More information
+
+github: [https://github.com/bcgov/nr-waste-plus](ttps://github.com/bcgov/nr-waste-plus)

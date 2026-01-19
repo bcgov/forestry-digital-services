@@ -12,10 +12,10 @@ Alliance:
 - Created a dashboard for staff to manage online client number submissions
 -	Enabled staff to use the dashboard to create client numbers for in-person applicants
 -	Implemented an advance search feature
--	Added functionality to edit existing client data,
+-	Added functionality to edit existing client data, and
 -	Made it possible to create related clients
 
-With this, the legacy system will be decommissioned by the end of 2025.  
+With this, the legacy system will be decommissioned early in 2026.  
 
 ## More information
 + Ministry of Forests client number [online submission form](https://www2.gov.bc.ca/gov/content?id=E290320237694A9584C0CABC5DE3B9F2)

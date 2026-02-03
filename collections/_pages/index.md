@@ -15,7 +15,7 @@ The Forestry Digital Services (FDS) program is transforming more than 30 forestr
 1. Build sustainable, modern digital services that support forestry initiatives
 2. Improve services using human‑centered approaches
 3. Align digital products and services with ministry priorities, and
-4.Meet the needs of Indigenous peoples, industry partners, government, and the public
+4. Meet the needs of Indigenous peoples, industry partners, government, and the public
 
 ### Objectives
 1. Maintain and improve system performance using modular components 

@@ -24,4 +24,4 @@ The Forestry Digital Services (FDS) program is transforming more than 30 forestr
 4. Support innovation in service delivery and collaboration with Indigenous peoples and stakeholders, and
 5. Prepare for the integration of new technologies in the forestry and resource sectors
 
-For more information about transformation, see our [introductory video](https://www.youtube.com/watch?v=wu1pbKvGsOM). To see what FDS achieved in <b>2024</b>, watch our [year in review](https://youtu.be/fm62KY0R7kE).
+For more information about transformation, see our [introductory video](https://www.youtube.com/watch?v=wu1pbKvGsOM). To see what FDS achieved in <b>2025</b>, watch our [year in review](https://www.youtube.com/watch?v=geg5BoAz_OU).

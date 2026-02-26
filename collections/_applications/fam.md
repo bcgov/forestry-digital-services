@@ -12,5 +12,5 @@ FAM streamlines and standardizes authorization and integrates with trusted servi
 
 ## More information
 + github: [https://github.com/bcgov/nr-forests-access-management/wiki/](https://github.com/bcgov/nr-forests-access-management/wiki/)
-+ [How to use Forest Access Management (FAM): A guide for Application Administrators]()
++ [How to use Forest Access Management (FAM): A guide for Application Administrators](https://github.com/bcgov/forestry-digital-services/blob/main/assets/PDFs/FAM-app-admin-instructions.pdf)
 + [How to use Forest Access Management (FAM): A guide for Delegated Administrators]()

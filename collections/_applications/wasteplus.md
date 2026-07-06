@@ -18,8 +18,9 @@ Once launched, the transformed application will be called Waste Plus and incorpo
 
 Waste Plus is early in its development. Team Alliance is currently designing a dashboard to allow licensees to log in and view the status of their waste submissions. The dashboard will also have better tools for searching and accessing submission information.
 
-Designs are being shared with users, and feedback is being gathered to ensure the system is easy to use. The goal is to release the first version of Waste Plus in 2026.
+Designs are being tested with users, and feedback is being incorporated to create an intuitive user experience. The first iteration of Waste Plus was released in 2026. It introduced a search feature that enables users to find their submissions fast. Results link to records in Waste, allowing users to move between the systems easily. Further iterations expanding the functionality of Waste Plus are coming in 2027.
 
 ## More information
 
+Waste Plus system: [www2.gov.bc.ca/gov/content/industry/forestry/competitive-forest-industry/timber-pricing/forest-residue-waste/waste-plus](https://www2.gov.bc.ca/gov/content?id=99D8813746C3441185AEB35C75CF4416)
 github: [https://github.com/bcgov/nr-waste-plus](ttps://github.com/bcgov/nr-waste-plus)

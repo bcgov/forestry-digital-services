@@ -22,6 +22,7 @@ Designs are being tested with users, and feedback is being incorporated to creat
 
 ## More information
 
-Waste Plus system: [www2.gov.bc.ca/gov/content/industry/forestry/competitive-forest-industry/timber-pricing/forest-residue-waste/waste-plus](https://www2.gov.bc.ca/gov/content?id=99D8813746C3441185AEB35C75CF4416)
+Waste Plus system:
+[www2.gov.bc.ca/gov/content/industry/forestry/competitive-forest-industry/timber-pricing/forest-residue-waste/waste-plus](https://www2.gov.bc.ca/gov/content?id=99D8813746C3441185AEB35C75CF4416)
 
 github: [https://github.com/bcgov/nr-waste-plus](ttps://github.com/bcgov/nr-waste-plus)

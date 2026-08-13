@@ -15,7 +15,7 @@ Alliance:
 -	Added functionality to edit existing client data, and
 -	Made it possible to create related clients
 
-With this, the legacy system will be decommissioned early in 2026.  
+The legacy system was decommissioned in 2026.  
 
 ## More information
 + Ministry of Forests client number [online submission form](https://www2.gov.bc.ca/gov/content?id=E290320237694A9584C0CABC5DE3B9F2)
